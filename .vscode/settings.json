@@ -1,0 +1,21 @@
+{
+    "i18n-ally.localesPaths": [
+        "src/locale",
+        "src/components/theme/locale",
+        "src/views/board/locale",
+        "src/views/login/locale",
+        "src/views/cloud/contracts/locale",
+        "src/views/cloud/hello/locale",
+        "src/views/exception/403/locale",
+        "src/views/exception/404/locale",
+        "src/views/exception/500/locale",
+        "src/views/form/base/locale",
+        "src/views/form/step/locale",
+        "src/views/list/search-table/locale",
+        "src/views/profile/detail/locale",
+        "src/views/result/error/locale",
+        "src/views/result/success/locale",
+        "src/views/user/info/locale",
+        "src/views/user/setting/locale"
+    ]
+}
